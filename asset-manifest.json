@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/facebook/static/css/main.a794950d.css",
+    "main.js": "/facebook/static/js/main.5d985eea.js",
+    "index.html": "/facebook/index.html",
+    "main.a794950d.css.map": "/facebook/static/css/main.a794950d.css.map",
+    "main.5d985eea.js.map": "/facebook/static/js/main.5d985eea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a794950d.css",
+    "static/js/main.5d985eea.js"
+  ]
+}
